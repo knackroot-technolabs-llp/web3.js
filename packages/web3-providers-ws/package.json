@@ -4,7 +4,7 @@
   "description": "Module to handle web3 RPC connections over WebSockets.",
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/knackroot-technolabs-llp/web3.js/tree/1.x/packages/web3-providers-ws"
+    "url": "https://github.com/knackroot-technolabs-llp/web3.js/tree/1.x/packages/web3-providers-ws"
   },
   "license": "LGPL-3.0",
   "engines": {
