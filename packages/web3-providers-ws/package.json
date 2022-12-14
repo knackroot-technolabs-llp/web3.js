@@ -1,5 +1,5 @@
 {
-  "name": "@kr/web3-providers-ws",
+  "name": "@knackroot/web3-providers-ws",
   "version": "1.8.1",
   "description": "Module to handle web3 RPC connections over WebSockets.",
   "repository": {
