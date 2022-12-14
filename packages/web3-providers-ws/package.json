@@ -1,8 +1,11 @@
 {
-  "name": "web3-providers-ws",
+  "name": "@kr/web3-providers-ws",
   "version": "1.8.1",
   "description": "Module to handle web3 RPC connections over WebSockets.",
-  "repository": "https://github.com/ethereum/web3.js/tree/1.x/packages/web3-providers-ws",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/knackroot-technolabs-llp/web3.js/tree/1.x/packages/web3-providers-ws"
+  },
   "license": "LGPL-3.0",
   "engines": {
     "node": ">=8.0.0"
@@ -21,5 +24,10 @@
   "devDependencies": {
     "dtslint": "^3.4.1",
     "typescript": "4.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/knackroot-technolabs-llp/web3.js/issues"
+  },
+  "homepage": "https://github.com/knackroot-technolabs-llp/web3.js/tree/1.x#readme",
+  "author": "kr-pankil"
 }
